@@ -1,2 +1,3 @@
 # xeto.vim
-Vim Xeto syntax plugin
+
+Vim [Xeto](https://haxall.io/doc/lib-xeto/index) syntax plugin
