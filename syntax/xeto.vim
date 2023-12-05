@@ -13,7 +13,7 @@ syn match  xetoType    "\<[A-Z][a-zA-Z0-9_]*\>"
 hi def link xetoComment Comment
 hi def link xetoString  String
 hi def link xetoId      Identifier
-hi def link xetoQname   StorageClass
+hi def link xetoQname   PreProc
 hi def link xetoType    Type
 
 let b:current_syntax = 'xeto'
